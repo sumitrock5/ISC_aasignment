@@ -1,0 +1,29 @@
+html,body{ 
+  background-color: rgb(204, 168, 153);
+  text-align: center;
+  color:white;
+}
+input{
+	border-radius: 10px;
+}
+.container{
+	height: 50%;
+	width: 30%;
+	background-color: rgba(79, 83, 113,0.5);
+	border: 3px solid black;
+	padding: 50px;
+	border-radius: 10px;
+	transition: all 1s;
+}
+.container:hover{
+	transform: scale(1.2);
+}
+h1{
+	text-align:left;
+}
+hr{
+	border: 1px solid white;
+}
+#h1{
+	box-shadow: 2px;
+}
